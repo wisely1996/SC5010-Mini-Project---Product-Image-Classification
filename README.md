@@ -1,1 +1,1 @@
-# SC5010-Mini-Project---Product-Image-Classification
+# SC5010-Mini-Project-Product-Image-Classification
