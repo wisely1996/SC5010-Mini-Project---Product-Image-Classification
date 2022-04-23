@@ -6,7 +6,7 @@ A mini project for our course SC5010 - Introduction to Data Analysis, we obtaine
 Contributors
 ---
 * @[Cheong Fung Wei](github.com/fungiiiii)
-* @[wisely1996](github.com/wisely1996)
+* @[Wisely Neo Boon Hao](github.com/wisely1996)
 
 Problem Definition
 ---
@@ -26,8 +26,9 @@ Outcome of Project
 Conclusion
 ---
 * Model may be underperfoming considering the potential of how powerful CNNs are
-* Test out with more hyperparameters to improve model
-* Including a neutral class (neither top nor bottom)
+* Ways to improve:
+  * Test out with more hyperparameters to improve model
+  * Including a neutral class (neither top nor bottom)
 
 Learning Points
 ---
