@@ -11,7 +11,6 @@ Contributors
 Problem Definition
 ---
 * Correctly classify images of topwear and bottomwear
-* 
 
 Model Layers
 ---
