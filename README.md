@@ -3,6 +3,8 @@ About
 ---
 A mini project for our course SC5010 - Introduction to Data Analysis, we obtained our dataset from Kaggle and used Tensorflow to form a CNN in order to create an Image Classification model to classify product images from [Shopee](https://www.kaggle.com/c/shopee-product-detection-open/overview), resized and reuploaded by a [kaggle user](https://www.kaggle.com/datasets/tanyongkeong/shopee-code-league-2020-product-detection?select=train.csv). Original dataset called for 40 over products, however due to a lack of resource to compute such a large amount of images, we decided to do only for topwear and bottomwear (2 categories).
 
+Note: We are unable to upload the images downloaded from kaggle due to the large space required. Please download directly from [here](https://www.kaggle.com/datasets/tanyongkeong/shopee-code-league-2020-product-detection?select=train.csv) if you wish to run the attached codes.
+
 Contributors
 ---
 * @[Cheong Fung Wei](github.com/fungiiiii)
